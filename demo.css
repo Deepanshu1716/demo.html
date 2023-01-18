@@ -1,0 +1,21 @@
+body{
+    background-color:wheat;
+    color: green;
+    font: initial;
+}
+h1{
+    color: brown;/* hello */
+    background-color: bisque;
+}
+.one{
+  /* color: black;
+    margin-left: 50px;
+   margin-top: 10%;
+    color: white*/
+}
+.two{
+   /* margin-left: 150px;
+    margin-top: 0%;
+    
+    color: white; */
+}
